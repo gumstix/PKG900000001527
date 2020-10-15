@@ -13,8 +13,11 @@ __Links:__
 * [AutoDoc Datasheet][autodoc]
 * [Specifications][spec]
 * [Store Page][store]
+* [Schematics and Layout][hardware]
 
 [thumbnail]: about:blank
 [autodoc]: PKG900000001527_AutoDoc.pdf
 [spec]: PKG900000001527_SpecSheet.pdf
 [store]: https://store.gumstix.com/cm4-poe-smart-camera/
+[hardware]: hardware/hardware.md
+[firmware]: firmware/firmware.md
